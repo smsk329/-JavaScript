@@ -7,3 +7,5 @@ $(function() {
     event.preventDefault();
   });
 });
+
+// 800というのは800ミリ秒（つまり0.8秒）を表している
